@@ -10,5 +10,5 @@ import lombok.Getter;
 public class UserResponseDTO {
     private Long id;
     private String username;
-    private Role role;
+    private String role;
 }
